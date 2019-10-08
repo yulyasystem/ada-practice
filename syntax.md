@@ -1,4 +1,4 @@
-## ADA :satisfied: practice 
+# ADA :satisfied: practice 
 
 * variables declaration only before *begin*, there is a declaration scope which finishes whit word begin
 ```ada
@@ -19,3 +19,4 @@ begin
 ``` 
 * to concatenate 2 strings use `&`
   
+# Concurrency in Ada
